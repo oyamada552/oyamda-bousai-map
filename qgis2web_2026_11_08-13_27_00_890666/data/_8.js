@@ -1,1 +1,0 @@
-var json__8 = {"type":"FeatureCollection","name":"_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","名称":"防災倉庫","所在地":"小山田町","備考":"自主防災会管理"},"geometry":{"type":"Point","coordinates":[133.503729479127145,33.533631592599896]}}]}
